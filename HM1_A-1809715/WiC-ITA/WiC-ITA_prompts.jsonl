@@ -1,0 +1,3 @@
+{"prompt": "Il significato della parola '{lemma}' risulta (Ambiguo) o (Non ambiguo) nella frase '{sentence1}' e nella frase '{sentence2}'?"}
+{"prompt": "Confronta le frasi '{sentence1}' e '{sentence2}' per determinare se il significato della parola '{lemma}' \u00e8 (Ambiguo) o (Non ambiguo)"}
+{"prompt": "Valuta se il significato della parola '{lemma}' risulta essere (Ambiguo) o (Non Ambiguo) nella frase '{sentence1}' e nella frase '{sentence2}'."}

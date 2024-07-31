@@ -1,0 +1,177 @@
+{"id": 0, "text": "battaglione", "choices": ["benedettini", "archeologica", "unit\u00e0 militare", "prostituzioni"], "label": 2}
+{"id": 1, "text": "battaglione", "choices": ["militari", "militi", "esercito", "armato"], "label": 2}
+{"id": 2, "text": "battaglione", "choices": ["bancata", "compagnia", "banca", "corte"], "label": 1}
+{"id": 3, "text": "battaglione", "choices": ["tattica", "difensiva", "forzata", "mazzata"], "label": 0}
+{"id": 4, "text": "Oriente cristiano", "choices": ["organizzazione non governativa", "esistenzialistica", "decentralizzati", "paesaggistico"], "label": 0}
+{"id": 5, "text": "Oriente cristiano", "choices": ["previdenziali", "impiantistico", "liberistici", "chiesa cattolica"], "label": 3}
+{"id": 6, "text": "Oriente cristiano", "choices": ["divo", "tebei", "passatempi", "culto"], "label": 3}
+{"id": 7, "text": "poiana", "choices": ["gufo", "avvoltoio", "gufaggini", "aquila"], "label": 1}
+{"id": 8, "text": "poiana", "choices": ["cirripede", "bovidi", "selenodonte", "vertebrato"], "label": 3}
+{"id": 9, "text": "poiana", "choices": ["uccello", "lodolaio", "iguana", "pennute"], "label": 0}
+{"id": 10, "text": "poiana", "choices": ["creature", "ornitorinco", "animale", "pennuto"], "label": 2}
+{"id": 11, "text": "poiana", "choices": ["volatile", "piuma", "bufaga", "pennuti"], "label": 0}
+{"id": 12, "text": "poiana", "choices": ["assoggettarli", "uccello da preda", "bavosa", "uruguay"], "label": 1}
+{"id": 13, "text": "poiana", "choices": ["turnisti", "uccello rapace", "malesseri", "artropode"], "label": 1}
+{"id": 14, "text": "poiana", "choices": ["falco", "pennuto", "serpente", "petre"], "label": 0}
+{"id": 15, "text": "Rania di Giordania", "choices": ["suddite", "suddito", "sottopotere", "monarca"], "label": 3}
+{"id": 16, "text": "Rania di Giordania", "choices": ["ognuno", "letto", "persona", "tipa"], "label": 2}
+{"id": 17, "text": "Rania di Giordania", "choices": ["regnante", "imperadrice", "sovrano", "boia"], "label": 0}
+{"id": 18, "text": "Rania di Giordania", "choices": ["pizza", "dama", "regina", "pantofola"], "label": 2}
+{"id": 19, "text": "Rania di Giordania", "choices": ["imparero", "fucsia", "cumulativi", "capo di stato"], "label": 3}
+{"id": 20, "text": "compito", "choices": ["computo", "scomputo", "calcolo", "computistiche"], "label": 2}
+{"id": 21, "text": "compito", "choices": ["colo", "servizio", "sistematici", "trasporto"], "label": 1}
+{"id": 22, "text": "compito", "choices": ["calcolo", "computo", "congedo", "calcole"], "label": 1}
+{"id": 23, "text": "compito", "choices": ["dovere", "scrupolo", "ansito", "alcun"], "label": 0}
+{"id": 24, "text": "rilievo", "choices": ["gigantografia", "scultura", "lapidee", "coreografia"], "label": 1}
+{"id": 25, "text": "ufficio", "choices": ["cerimonia", "sfila", "sfilata", "gara"], "label": 0}
+{"id": 26, "text": "ufficio", "choices": ["angosciato", "posto di lavoro", "ingegneri", "melan"], "label": 1}
+{"id": 27, "text": "ufficio", "choices": ["struttura architettonica", "involutivo", "iconografiche", "sistematico"], "label": 0}
+{"id": 28, "text": "Francesco", "choices": ["neutralistici", "nome di battesimo", "colorati", "nomea"], "label": 1}
+{"id": 29, "text": "Francesco", "choices": ["etimologico", "antroponimo", "etimologi", "etimologo"], "label": 1}
+{"id": 30, "text": "Francesco", "choices": ["filmici", "pellicola", "filmo", "fotosub"], "label": 1}
+{"id": 31, "text": "Francesco", "choices": ["proiezionisti", "film", "registico", "registi"], "label": 1}
+{"id": 32, "text": "Francesco", "choices": ["filmo", "cinema", "filmstrip", "teatro"], "label": 1}
+{"id": 33, "text": "Francesco", "choices": ["produzione", "coltura", "mescita", "filiere"], "label": 0}
+{"id": 34, "text": "Francesco", "choices": ["teatri", "spettacolo", "clown", "teatrini"], "label": 1}
+{"id": 35, "text": "Francesco", "choices": ["scheda", "consultivi", "rassegna", "retrospettivi"], "label": 2}
+{"id": 36, "text": "Francesco", "choices": ["passeggiata", "manifestazione", "riunione", "protestata"], "label": 1}
+{"id": 37, "text": "canottaggio", "choices": ["ristorativi", "liberero", "sport olimpico", "addormentativo"], "label": 2}
+{"id": 38, "text": "canottaggio", "choices": ["sport", "bandy", "body", "calcioli"], "label": 0}
+{"id": 39, "text": "produttore cinematografico", "choices": ["produttore", "mercante", "musicista", "macchiettista"], "label": 0}
+{"id": 40, "text": "produttore cinematografico", "choices": ["mecenate", "arci", "impresario", "subagente"], "label": 2}
+{"id": 41, "text": "produttore cinematografico", "choices": ["mestiere", "mestiamo", "professione", "mestieri"], "label": 2}
+{"id": 42, "text": "produttore cinematografico", "choices": ["letto", "persona", "tipa", "ognuno"], "label": 1}
+{"id": 43, "text": "congettura", "choices": ["chiarificazione", "annacquatura", "scissione", "chiarirsi"], "label": 0}
+{"id": 44, "text": "congettura", "choices": ["capacitarsi", "speranzosa", "capacita", "possibilit\u00e0"], "label": 3}
+{"id": 45, "text": "congettura", "choices": ["tradizionalistici", "semantiche", "ricerca scientifica", "predicate"], "label": 2}
+{"id": 46, "text": "congettura", "choices": ["disquisire", "sintesi", "controprova", "spiegazione"], "label": 3}
+{"id": 47, "text": "congettura", "choices": ["ottusa", "asserzione", "epesegesi", "fallacia"], "label": 1}
+{"id": 48, "text": "congettura", "choices": ["bevete", "assunzione", "impiego", "ascesa"], "label": 1}
+{"id": 49, "text": "congettura", "choices": ["evitare", "rischiaramento", "eviterei", "rischi"], "label": 1}
+{"id": 50, "text": "congettura", "choices": ["messaggio", "alleli", "discorso", "postato"], "label": 0}
+{"id": 51, "text": "congettura", "choices": ["frase", "logicismi", "proposizione", "arringa"], "label": 2}
+{"id": 52, "text": "congettura", "choices": ["filosofismo", "teoria", "sconoscenze", "dinamica"], "label": 1}
+{"id": 53, "text": "Stalin", "choices": ["erede", "posseditore", "capitano", "vassalli"], "label": 1}
+{"id": 54, "text": "Stalin", "choices": ["socialista", "parlamentare", "extraparlamentare", "liberale"], "label": 0}
+{"id": 55, "text": "Stalin", "choices": ["linguaggi", "film tv", "ruscello", "saggisti"], "label": 1}
+{"id": 56, "text": "Stalin", "choices": ["cinema", "lungometraggio", "filmo", "movie"], "label": 1}
+{"id": 57, "text": "Stalin", "choices": ["gazzettistici", "vicariare", "cameraman", "direttore"], "label": 3}
+{"id": 58, "text": "Stalin", "choices": ["viticoli", "trasmissione televisiva", "infrastrutturali", "scientifici"], "label": 1}
+{"id": 59, "text": "Stalin", "choices": ["pivellini", "guru", "lobotomizzate", "adepte"], "label": 1}
+{"id": 60, "text": "Stalin", "choices": ["socie", "titolare", "predone", "segga"], "label": 1}
+{"id": 61, "text": "Stalin", "choices": ["nord", "dell", "infima", "principale"], "label": 3}
+{"id": 62, "text": "Stalin", "choices": ["programma televisivo", "coniuge", "accademico", "sugo"], "label": 0}
+{"id": 63, "text": "Stalin", "choices": ["procedura", "diffusiva", "calettatura", "trasmissione"], "label": 3}
+{"id": 64, "text": "Stalin", "choices": ["aiutanti", "capo", "mutanti", "vestissi"], "label": 1}
+{"id": 65, "text": "Stalin", "choices": ["film", "filmata", "filmati", "video"], "label": 3}
+{"id": 66, "text": "Stalin", "choices": ["giuravamo", "giuravano", "capintesta", "sellavamo"], "label": 2}
+{"id": 67, "text": "Stalin", "choices": ["impiegatumi", "sindacalistico", "nord", "funzionario"], "label": 3}
+{"id": 68, "text": "Stalin", "choices": ["neonista", "leader", "guru", "consulenti"], "label": 1}
+{"id": 69, "text": "Stalin", "choices": ["fede", "capo di stato", "milan", "tartine"], "label": 1}
+{"id": 70, "text": "Stalin", "choices": ["ognuno", "tipa", "persona", "letto"], "label": 2}
+{"id": 71, "text": "Stalin", "choices": ["sovrano", "dittatore", "megacolon", "putschisti"], "label": 1}
+{"id": 72, "text": "Jefferson", "choices": ["urbanita", "metropoli", "megacosmo", "cosmo"], "label": 1}
+{"id": 73, "text": "Jefferson", "choices": ["frazionista", "nord", "comune", "casal"], "label": 2}
+{"id": 74, "text": "Jefferson", "choices": ["guadava", "bacino", "lagoni", "fiume"], "label": 3}
+{"id": 75, "text": "Jefferson", "choices": ["scilu", "nazi", "campani", "regione"], "label": 3}
+{"id": 76, "text": "Jefferson", "choices": ["imbrifero", "confluente", "sacculari", "travasatrice"], "label": 1}
+{"id": 77, "text": "Jefferson", "choices": ["rivo", "adacquato", "madida", "adacquava"], "label": 0}
+{"id": 78, "text": "Jefferson", "choices": ["municipalit\u00e0", "stazione", "abitatrici", "diocesi"], "label": 0}
+{"id": 79, "text": "Jefferson", "choices": ["mondo", "villaggi", "nord", "paese"], "label": 3}
+{"id": 80, "text": "Jefferson", "choices": ["polis", "case", "casa", "citt\u00e0"], "label": 3}
+{"id": 81, "text": "Jefferson", "choices": ["idrografia", "idrografi", "idrografica", "affluente"], "label": 3}
+{"id": 82, "text": "Jefferson", "choices": ["casal", "cascinaio", "borgo", "paesello"], "label": 2}
+{"id": 83, "text": "Laura Brown", "choices": ["azzurrava", "sportiva", "medicano", "medicata"], "label": 1}
+{"id": 84, "text": "Laura Brown", "choices": ["letto", "tipa", "persona", "ognuno"], "label": 2}
+{"id": 85, "text": "Laura Brown", "choices": ["podisti", "ciclista", "pesiste", "pedometri"], "label": 1}
+{"id": 86, "text": "Laura Brown", "choices": ["decatleta", "tenniste", "pentatleta", "golfista"], "label": 3}
+{"id": 87, "text": "Vulcano", "choices": ["dio", "serpente", "zeus", "triteisti"], "label": 0}
+{"id": 88, "text": "Vulcano", "choices": ["montagna", "sciamma", "innevata", "vallee"], "label": 0}
+{"id": 89, "text": "Vulcano", "choices": ["cosmo", "pianeta", "mondo", "formicaio"], "label": 1}
+{"id": 90, "text": "Vulcano", "choices": ["deit\u00e0", "sozzure", "circonlocuzioni", "querulo"], "label": 0}
+{"id": 91, "text": "Vulcano", "choices": ["deita", "mitologie", "divinit\u00e0", "creature"], "label": 2}
+{"id": 92, "text": "Vulcano", "choices": ["materialismo", "affettato", "argentata", "oggetto celeste"], "label": 3}
+{"id": 93, "text": "Vulcano", "choices": ["cielo", "astro", "vespe", "zenit"], "label": 1}
+{"id": 94, "text": "Vulcano", "choices": ["personaggio", "locatore", "titolo", "presepe"], "label": 0}
+{"id": 95, "text": "Vulcano", "choices": ["personaggio immaginario", "temporalismo", "spazientire", "stadica"], "label": 0}
+{"id": 96, "text": "Vulcano", "choices": ["armavamo", "arma", "placcavamo", "banda"], "label": 3}
+{"id": 97, "text": "Vulcano", "choices": ["ristorativo", "jazzistica", "gruppo musicale", "artistica"], "label": 2}
+{"id": 98, "text": "Vulcano", "choices": ["polmonare", "corpo celeste", "nipponica", "somatizza"], "label": 1}
+{"id": 99, "text": "cardamomo", "choices": ["germogliava", "germoglia", "tagete", "pianta"], "label": 3}
+{"id": 100, "text": "cardamomo", "choices": ["gusto", "aliti", "olezzo", "aroma"], "label": 3}
+{"id": 101, "text": "cardamomo", "choices": ["molecola", "epiteliali", "tracheobionta", "posdatazioni"], "label": 2}
+{"id": 102, "text": "cardamomo", "choices": ["biologica", "vegetale", "biologico", "biologi"], "label": 1}
+{"id": 103, "text": "cardamomo", "choices": ["piantava", "pianta da fiore", "sugo", "tariffa"], "label": 1}
+{"id": 104, "text": "cardamomo", "choices": ["monocarpo", "magnoliophyta", "botanica", "lipoidea"], "label": 1}
+{"id": 105, "text": "Enrico Berlinguer", "choices": ["organizzativo", "politico", "amministrativo", "governativo"], "label": 1}
+{"id": 106, "text": "Enrico Berlinguer", "choices": ["segretario", "candidata", "caposcuola", "sindaca"], "label": 0}
+{"id": 107, "text": "Enrico Berlinguer", "choices": ["frigidaire", "capopopolo", "comunista", "trotzki"], "label": 2}
+{"id": 108, "text": "dominio", "choices": ["sceneggiati", "mobilitazione", "protocollo di comunicazione", "retoromanzo"], "label": 2}
+{"id": 109, "text": "dominio", "choices": ["peso", "controllo", "zelo", "dispotismi"], "label": 1}
+{"id": 110, "text": "Luci della ribalta", "choices": ["filmi", "lungometraggio", "film", "filmo"], "label": 1}
+{"id": 111, "text": "Luci della ribalta", "choices": ["dramma", "antieroi", "dilemmi", "climax"], "label": 0}
+{"id": 112, "text": "Luci della ribalta", "choices": ["pellicola", "garza", "movie", "sindone"], "label": 0}
+{"id": 113, "text": "Luci della ribalta", "choices": ["commedia drammatica", "gravitazionale", "serenante", "sonante"], "label": 0}
+{"id": 114, "text": "Luci della ribalta", "choices": ["viarie", "eucaristici", "statalistici", "film drammatico"], "label": 3}
+{"id": 115, "text": "Luci della ribalta", "choices": ["registici", "romanzo", "film", "proiezionisti"], "label": 2}
+{"id": 116, "text": "Regolo", "choices": ["cielo", "zeus", "astro", "zenit"], "label": 2}
+{"id": 117, "text": "Regolo", "choices": ["corpo celeste", "neutro", "subatomico", "legnosita"], "label": 0}
+{"id": 118, "text": "Regolo", "choices": ["vivi", "museografica", "oggetto celeste", "femminile"], "label": 2}
+{"id": 119, "text": "Regolo", "choices": ["stella", "equinozi", "costellazione", "stellata"], "label": 2}
+{"id": 120, "text": "Il Cairo", "choices": ["metropoli", "megacosmo", "gangs", "cosmo"], "label": 0}
+{"id": 121, "text": "Il Cairo", "choices": ["baia", "retea", "zona", "retei"], "label": 2}
+{"id": 122, "text": "Il Cairo", "choices": ["municipalit\u00e0", "contea", "sottoprefetture", "stazione"], "label": 0}
+{"id": 123, "text": "Il Cairo", "choices": ["eroina", "placcava", "area metropolitana", "espositivo"], "label": 2}
+{"id": 124, "text": "Il Cairo", "choices": ["grande citt\u00e0", "strette", "nudo", "espliciti"], "label": 0}
+{"id": 125, "text": "Il Cairo", "choices": ["cronico", "punto geografico", "terminali", "fiabesco"], "label": 1}
+{"id": 126, "text": "Il Cairo", "choices": ["borgata", "borgate", "spiagge", "localit\u00e0"], "label": 3}
+{"id": 127, "text": "Il Cairo", "choices": ["polis", "periferia", "sinagoga", "citt\u00e0"], "label": 3}
+{"id": 128, "text": "Il Cairo", "choices": ["cosmo", "bordello", "borghese", "capitale"], "label": 3}
+{"id": 129, "text": "ritornello", "choices": ["videoclip", "music", "brano", "postludio"], "label": 2}
+{"id": 130, "text": "ritornello", "choices": ["terrazzani", "assassinarli", "opera musicale", "travio"], "label": 2}
+{"id": 131, "text": "ritornello", "choices": ["composizione musicale", "politologica", "ricreativi", "bellicistico"], "label": 0}
+{"id": 132, "text": "ritornello", "choices": ["innodia", "musicabile", "querula", "canzonetta"], "label": 3}
+{"id": 133, "text": "ritornello", "choices": ["nazionalita", "insonorizzante", "tema musicale", "territorializza"], "label": 2}
+{"id": 134, "text": "ritornello", "choices": ["fine", "traccia", "piegai", "residui"], "label": 1}
+{"id": 135, "text": "formicaio", "choices": ["sciame", "spettro", "ronza", "stuole"], "label": 0}
+{"id": 136, "text": "formicaio", "choices": ["sparute", "codazzo", "gruppetti", "nugolo"], "label": 3}
+{"id": 137, "text": "formicaio", "choices": ["neve", "vallee", "montagna", "innevata"], "label": 2}
+{"id": 138, "text": "formicaio", "choices": ["sfilza", "sfilze", "caterva", "ridde"], "label": 2}
+{"id": 139, "text": "formicaio", "choices": ["affollarsi", "affollamento", "ingorghi", "affolla"], "label": 1}
+{"id": 140, "text": "formicaio", "choices": ["punto geografico", "legislativo", "memorialiste", "collegi"], "label": 0}
+{"id": 141, "text": "formicaio", "choices": ["positi", "passivi", "luogo di lavoro", "verdone"], "label": 2}
+{"id": 142, "text": "formicaio", "choices": ["chiassosa", "bela", "nugoli", "frotta"], "label": 3}
+{"id": 143, "text": "formicaio", "choices": ["viuzza", "rupe", "pianura", "collinetta"], "label": 3}
+{"id": 144, "text": "formicaio", "choices": ["dozzina", "terzetto", "pettinaie", "stuolo"], "label": 3}
+{"id": 145, "text": "formicaio", "choices": ["brusire", "saccolo", "mucchio", "sacco"], "label": 2}
+{"id": 146, "text": "Robert M. Bowman", "choices": ["aggirero", "virtuosistici", "tipografi", "aeronautica militare"], "label": 3}
+{"id": 147, "text": "Robert M. Bowman", "choices": ["neurologici", "produzione cinematografica", "imperatoria", "addizione"], "label": 1}
+{"id": 148, "text": "Robert M. Bowman", "choices": ["avio", "aeronautica", "aero", "aerea"], "label": 1}
+{"id": 149, "text": "Robert M. Bowman", "choices": ["aviazione", "aviatrici", "aerea", "aero"], "label": 0}
+{"id": 150, "text": "Robert M. Bowman", "choices": ["esagerativo", "parolieri", "sanitaristi", "regista cinematografico"], "label": 3}
+{"id": 151, "text": "Robert M. Bowman", "choices": ["falange", "armavo", "zolla", "pseudoartrosi"], "label": 0}
+{"id": 152, "text": "Robert M. Bowman", "choices": ["brigatrice", "masnade", "milizia", "soldatessa"], "label": 2}
+{"id": 153, "text": "Robert M. Bowman", "choices": ["narrativi", "filmologia", "letteratura", "retrospettivi"], "label": 1}
+{"id": 154, "text": "mole", "choices": ["oggettivo", "lette", "unit\u00e0 di misura", "tendone"], "label": 2}
+{"id": 155, "text": "mole", "choices": ["enormit\u00e0", "alcuni", "aspre", "esatte"], "label": 0}
+{"id": 156, "text": "mole", "choices": ["peso", "quantitativo", "introito", "valori"], "label": 0}
+{"id": 157, "text": "mole", "choices": ["tono", "tipo", "volume", "corpus"], "label": 2}
+{"id": 158, "text": "mole", "choices": ["grandezza", "statu", "forza", "bravura"], "label": 0}
+{"id": 159, "text": "Juventus", "choices": ["broncoscopi", "squadra di calcio", "danzatrici", "architetterei"], "label": 1}
+{"id": 160, "text": "Juventus", "choices": ["scompagina", "compagine", "tifoserie", "squadra"], "label": 3}
+{"id": 161, "text": "Juventus", "choices": ["banca", "societ\u00e0", "holding", "gangs"], "label": 1}
+{"id": 162, "text": "Juventus", "choices": ["locandine", "puntato", "coppie", "societ\u00e0 per azioni"], "label": 3}
+{"id": 163, "text": "Juventus", "choices": ["azienda", "automobilistici", "univo", "armai"], "label": 0}
+{"id": 164, "text": "slide", "choices": ["effigie", "raffigurazione", "effigiata", "immaginetta"], "label": 1}
+{"id": 165, "text": "slide", "choices": ["quadro", "disegno", "plotter", "cartogramma"], "label": 1}
+{"id": 166, "text": "slide", "choices": ["mutagenesi", "trascrittura", "riproduzione", "marinatura"], "label": 2}
+{"id": 167, "text": "slide", "choices": ["figurarsi", "figura", "immagine", "inter"], "label": 2}
+{"id": 168, "text": "fondo", "choices": ["pellame", "fasciai", "zona", "tribadi"], "label": 2}
+{"id": 169, "text": "fondo", "choices": ["barriera", "tuba", "strisciarsi", "strisciavo"], "label": 0}
+{"id": 170, "text": "fondo", "choices": ["estremit\u00e0", "appendiciti", "ante", "arti"], "label": 0}
+{"id": 171, "text": "fondo", "choices": ["gara", "ciclo", "staffette", "astata"], "label": 0}
+{"id": 172, "text": "fondo", "choices": ["fine", "limite", "tipo", "costo"], "label": 1}
+{"id": 173, "text": "fondo", "choices": ["competizione", "scorciatoia", "sfida", "gara"], "label": 0}
+{"id": 174, "text": "fondo", "choices": ["localit\u00e0", "borgata", "borgate", "frazioni"], "label": 0}
+{"id": 175, "text": "fondo", "choices": ["sport olimpico", "federalismi", "cattolica", "ninfe"], "label": 0}
+{"id": 176, "text": "fondo", "choices": ["etico", "sportivo", "casalingo", "umanistici"], "label": 1}

@@ -1,0 +1,3 @@
+{"prompt": "Il termine '{text}' pu\u00f2 essere iperonimo di: \n a) {option1} \n b) {option2} \n c) {option3} \n d) {option4}"}
+{"prompt": "Dato il termine '{text}', quale tra le seguenti parole \u00e8 un suo iperonimo? \n a) {option1} \n b) {option2} \n c) {option3} \n d) {option4}"}
+{"prompt": "Scegli l'iperonimo del termine '{text}': \n a) {option1} \n b) {option2} \n c) {option3} \n d) {option4}"}
